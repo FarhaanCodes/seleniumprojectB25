@@ -29,7 +29,7 @@ public class T3_CRM_LOGIN extends TestBase {
 
         //6. Verify title is as expected:
         //Expected: Portal
-        BrowserUtils.verifyTitle(driver,"portal");
+        BrowserUtils.verifyTitle(driver,"Portal");
 
     }
 }

@@ -63,6 +63,8 @@ public class BrowserUtils {
 
     }
 
+
+
     /*
     Creating a utility method for ExplicitWait, so we don't have to repeat the lines
      */
